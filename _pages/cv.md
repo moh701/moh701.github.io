@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in ICT for Internet and Multimedia**, University of Padova (Italy), 2021 - 2024
+  * Focus on Machine Learning, IoT, and E-Health.
+* **B.S. in Biomedical Engineering**, Azad University of Mashhad (Iran), 2011 - 2015
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Assistant | University of Eindhoven (Netherlands)**
+  * *April 2024 – July 2024*
+  * Improved uterus image segmentation accuracy by 25% and reduced clinical misdiagnosis rates by 18%.
+  * Applied Machine Learning techniques to Biomedical Imaging (DICOM data).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant | University of Deusto (Spain)**
+  * *October 2023 – March 2024*
+  * Developed AI models for sound-based physiological flow rate extraction with 85% accuracy.
+  * Specialized in SVM algorithms and signal processing for non-invasive monitoring.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: Python (PyTorch, TensorFlow, Keras), C++, MATLAB.
+* **AI Specialization**: Large Language Models (LLM Security, Llama-3-8B), Computer Vision, Signal Processing.
+* **Tools**: OpenCV, Git, Linux, Docker, LaTeX.
+
+Patents & Inventions
+======
+* **International Patent (A61C3/14)**: Digital Dental Counter. 
+  * Developed a device to reduce medical extraction errors in dental schools from 20% to 5%.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
