@@ -11,7 +11,7 @@ repository               : "moh701/moh701.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Mohammad Mohammadi"
   pronouns         : "he/him"
   bio              : "AI & Machine Learning Researcher focusing on healthcare diagnostics, computer vision, and Large Language Models."
