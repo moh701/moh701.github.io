@@ -1,152 +1,111 @@
 {
-  "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
-  },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "degree": "Master of Science in ICT for Internet and Multimedia",
+      "institution": "University of Padova, Italy",
+      "date": "2021-2024",
+      "description": "Focus on Machine Learning, IoT, and E-Health[cite: 6, 10]. Thesis: Ultrasonic platform with ML for privacy-preserving sound uroflowmetry[cite: 9]."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "degree": "Bachelor of Biomedical Engineering",
+      "institution": "University of Azad Mashhad, Iran",
+      "date": "2011-2015",
+      "description": "Thesis on skin neural prostheses and mobility[cite: 14, 16, 17]."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "experience": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "role": "Research Assistant - Biomedical Image Processing",
+      "institution": "University of Eindhoven, Netherlands",
+      "date": "2024",
+      "description": "Improved uterus imaging segmentation accuracy by 25% and reduced misdiagnosis rates by 18% using ML[cite: 21, 25]."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "role": "Research Assistant - Machine Learning for Healthcare",
+      "institution": "University of Deusto, Spain",
+      "date": "2023-2024",
+      "description": "Achieved 85% accuracy with SVM algorithms for physiological flow rate extraction from sound[cite: 31, 35]."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Digital Dental Counter (International Patent)",
+      "category": "Patents",
+      "date": "2020-11",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Patent A61C3/14; A61B1/24. Reduced medical extraction errors from 20% to 5%[cite: 75, 76]."
+    },
+    {
+      "name": "Targeted Credential Generation (Llama-3)",
+      "category": "AI Research",
+      "date": "2026",
+      "url": "",
+      "description": "Achieved 100% PII correlation rate using Llama-3-8B for targeted password generation."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming",
+      "list": "Python, C++, MATLAB[cite: 58, 59]."
+    },
+    {
+      "category": "AI & ML",
+      "list": "PyTorch, Keras, TensorFlow, Scikit-learn (SVM), LLM Fine-tuning (Llama-3)."
+    }
+  ]
+}{
+  "education": [
+    {
+      "degree": "Master of Science in ICT for Internet and Multimedia",
+      "institution": "University of Padova, Italy",
+      "date": "2021-2024",
+      "description": "Focus on Machine Learning, IoT, and E-Health[cite: 6, 10]. Thesis: Ultrasonic platform with ML for privacy-preserving sound uroflowmetry[cite: 9]."
+    },
+    {
+      "degree": "Bachelor of Biomedical Engineering",
+      "institution": "University of Azad Mashhad, Iran",
+      "date": "2011-2015",
+      "description": "Thesis on skin neural prostheses and mobility[cite: 14, 16, 17]."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Research Assistant - Biomedical Image Processing",
+      "institution": "University of Eindhoven, Netherlands",
+      "date": "2024",
+      "description": "Improved uterus imaging segmentation accuracy by 25% and reduced misdiagnosis rates by 18% using ML[cite: 21, 25]."
+    },
+    {
+      "role": "Research Assistant - Machine Learning for Healthcare",
+      "institution": "University of Deusto, Spain",
+      "date": "2023-2024",
+      "description": "Achieved 85% accuracy with SVM algorithms for physiological flow rate extraction from sound[cite: 31, 35]."
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Digital Dental Counter (International Patent)",
+      "category": "Patents",
+      "date": "2020-11",
+      "url": "",
+      "description": "Patent A61C3/14; A61B1/24. Reduced medical extraction errors from 20% to 5%[cite: 75, 76]."
+    },
+    {
+      "name": "Targeted Credential Generation (Llama-3)",
+      "category": "AI Research",
+      "date": "2026",
+      "url": "",
+      "description": "Achieved 100% PII correlation rate using Llama-3-8B for targeted password generation."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming",
+      "list": "Python, C++, MATLAB[cite: 58, 59]."
+    },
+    {
+      "category": "AI & ML",
+      "list": "PyTorch, Keras, TensorFlow, Scikit-learn (SVM), LLM Fine-tuning (Llama-3)."
     }
   ]
 }
