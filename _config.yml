@@ -22,7 +22,7 @@ author:
   # Academic & Tech profiles
   googlescholar     : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   github            : "moh701"
-  linkedin          : "mohammadmohammadi741" # لینک مستقیم شما
+  linkedin          : "mohammadmohammadi741"
 
 # Publication Category
 publication_category:
@@ -43,4 +43,4 @@ social:
       url: "https://www.linkedin.com/in/mohammadmohammadi741/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/moh701"
+      url: "moh701"
